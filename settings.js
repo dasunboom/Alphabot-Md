@@ -36,7 +36,7 @@ global.ownername = "dasun" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "dasundodanwala@gmail.com
+global.email = "dasunbozadasun@gmail.com
 
 " //bebas
 global.region = "Buddhist" //bebas
